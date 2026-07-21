@@ -80,7 +80,7 @@ MIS Project.xlsx/
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+> MIS_Dashboard.png
 
 Example:
 
