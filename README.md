@@ -80,7 +80,7 @@ MIS Project.xlsx/
 
 ## 📷 Dashboard Preview
 
-> MIS_Dashboard.png
+![Dashboard](MIS_Dashboard.png)
 
 Example:
 
